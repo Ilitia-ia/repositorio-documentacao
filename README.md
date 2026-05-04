@@ -98,9 +98,9 @@ O processo de design foi guiado pelos princípios de **Design Centrado no Usuár
 
 | Cor | Nome Sugerido | Hexadecimal |
 | :--- | :--- | :--- |
-| ![#c897b8](https://placeholder.com+) | Lavanda Materno | `#c897b8` |
-| ![#e1a8e0](https://placeholder.com+) | Rosa Orquídea | `#e1a8e0` |
-| ![#171616](https://placeholder.com+) | Cinza Profundo | `#171616` |
+| ![#c897b8](https://placeholder.com+) | Rosa Antigo / Malva | `#ca95b9` |
+| ![#e1a8e0](https://placeholder.com+) | Lavanda | `#eeb3ff` |
+| ![#171616](https://placeholder.com+) | Preto Carvão | `#171616` |
 | ![#ba5bff](https://placeholder.com+) | Roxo Destaque | `#ba5bff` |
 
 ---
