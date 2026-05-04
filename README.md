@@ -9,7 +9,9 @@ Inspirada na deusa grega do nascimento, a **Ilítia** é uma solução digital c
 ---
 
 ## 💎 Proposta Única de Valor (PUV)
-Reduzir a mortalidade materna evitável através de um monitoramento inteligente e conectado, que transforma dados de saúde em intervenções precoces, garantindo segurança para a gestante e eficiência para a gestão pública e privada.
+
+    Reduzir a mortalidade materna evitável através de um monitoramento inteligente e conectado, que transforma dados
+    de saúde em intervenções precoces, garantindo segurança para a gestante e eficiência para a gestão pública e privada.
 
 ---
 
@@ -95,13 +97,16 @@ O processo de design foi guiado pelos princípios de **Design Centrado no Usuár
 
 #### **Identidade Visual**
 
-
-| Cor | Nome Sugerido | Hexadecimal |
+| Cor | Nome | Hexadecimal |
 | :--- | :--- | :--- |
-| ![#c897b8](https://placeholder.com+) | Rosa Antigo / Malva | `#ca95b9` |
-| ![#e1a8e0](https://placeholder.com+) | Lavanda | `#eeb3ff` |
-| ![#171616](https://placeholder.com+) | Preto Carvão | `#171616` |
-| ![#ba5bff](https://placeholder.com+) | Roxo Destaque | `#ba5bff` |
+| ![#ca95b9](https://img.shields.io/badge/%20%20-ca95b9) | Rosa Antigo / Malva | `#ca95b9` |
+| ![#eeb3ff](https://img.shields.io/badge/%20%20-eeb3ff) | Lavanda | `#eeb3ff` |
+| ![#171616](https://img.shields.io/badge/%20%20-171616) | Preto Carvão | `#171616` |
+| ![#ba5bff](https://img.shields.io/badge/%20%20-ba5bff) | Roxo Destaque | `#ba5bff` |
+
+#### **Aprofundamento de UX**
+*   🗺️ **[Jornadas do Usuário Detalhadas](https://github.com/Ilitia-ia/repositorio-documentacao/blob/main/documentacao-geral/UX/ux.md)**
+*   📈 **[Matriz de Complexidade e Priorização]([./documentacao-geral/UX/matriz-complexidade.md](https://github.com/Ilitia-ia/repositorio-documentacao/blob/main/documentacao-geral/matriz-complexidade.md))**
 
 ---
 
