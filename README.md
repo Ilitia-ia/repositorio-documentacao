@@ -91,7 +91,7 @@ O processo de design foi guiado pelos princípios de **Design Centrado no Usuár
 2. **Usabilidade:** 10 Heurísticas de Jakob Nielsen.
 3. **Navegabilidade:** Foco em interfaces limpas e responsivas.
 
-*   🔗 **[Protótipo Interativo no Figma](https://figma.site)**
+*   🔗 **[Protótipo Interativo no Figma](https://snake-focus-69483258.figma.site/)**
 
 #### **Identidade Visual**
 
