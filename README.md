@@ -116,12 +116,20 @@ Os resultados da validação do MVP demonstram um potencial de adoção massivo:
 
 ---
 
-### 👥 Equipe
-*   [Amanda-Aziz](https://github.com/Amanda-Aziz)
-*   [nome-perfil](link)
-*   [nome-perfil](link)
-*   [nome-perfil](link)
-*   [nome-perfil](link)
+### 👥 Core Team | Squad Ilítia
+
+
+| Profile | Member | Role & Expertise | GitHub |
+| :---: | :--- | :--- | :---: |
+| <img src="https://github.com" width="60px;"/> | **Amanda Aziz** | UI/UX Design & Strategy | [Amanda-Aziz](https://github.com/Amanda-Aziz) |
+| <img src="https://github.com" width="60px;"/> | **Mozart Demarias** | Fullstack Development | [mozartDemarias](https://github.com/mozartDemarias) |
+| <img src="https://github.com" width="60px;"/> | **Francis Lauriano** | Backend & Health Data | [FrancisLauriano](https://github.com/FrancisLauriano) |
+| <img src="https://github.com" width="60px;"/> | **Gabriel Lucas** | Frontend Specialist | [gabriellucasknp](https://github.com/gabriellucasknp) |
+| <img src="https://github.com" width="60px;"/> | **Laura** | Business & QA | [laura00000849717](https://github.com/laura00000849717) |
+
+---
+> **Squad Ilítia:** Integrando tecnologia e humanização para transformar a saúde materna.
+
 
 ---
 
