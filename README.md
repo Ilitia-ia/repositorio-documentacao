@@ -29,14 +29,14 @@ Reduzir a mortalidade materna evitável através de um monitoramento inteligente
 
 #### 🚀 Estrutura de Receita
 
-> **01. Licenciamento B2G (SaaS Municipal)**
-> *   Contratos recorrentes para implementação na rede pública, integrando os dados da gestante diretamente ao fluxo de atendimento do SUS.
+**01. Licenciamento B2G (SaaS Municipal)**
+ *   Contratos recorrentes para implementação na rede pública, integrando os dados da gestante diretamente ao fluxo de atendimento do SUS.
 
-> **02. Fee por "Vida Monitorada" (B2B)**
-> *   Modelo escalável para operadoras de saúde privadas, onde o Ilítia atua como uma camada de prevenção ativa, evitando internações de alto custo.
+**02. Fee por "Vida Monitorada" (B2B)**
+ *   Modelo escalável para operadoras de saúde privadas, onde o Ilítia atua como uma camada de prevenção ativa, evitando internações de alto custo.
 
-> **03. Licenciamento White Label**
-> *   Expansão de mercado através da cessão de tecnologia para grandes grupos hospitalares que buscam inovação sem o custo de desenvolvimento do zero.
+**03. Licenciamento White Label**
+ *   Expansão de mercado através da cessão de tecnologia para grandes grupos hospitalares que buscam inovação sem o custo de desenvolvimento do zero.
 
 
 ---
@@ -121,11 +121,11 @@ Os resultados da validação do MVP demonstram um potencial de adoção massivo:
 
 | Profile | Member | Role & Expertise | GitHub |
 | :---: | :--- | :--- | :---: |
-| <img src="https://github.com" width="60px;"/> | **Amanda Aziz** | UI/UX Design & Strategy | [Amanda-Aziz](https://github.com/Amanda-Aziz) |
-| <img src="https://github.com" width="60px;"/> | **Mozart Demarias** | Fullstack Development | [mozartDemarias](https://github.com/mozartDemarias) |
-| <img src="https://github.com" width="60px;"/> | **Francis Lauriano** | Backend & Health Data | [FrancisLauriano](https://github.com/FrancisLauriano) |
-| <img src="https://github.com" width="60px;"/> | **Gabriel Lucas** | Frontend Specialist | [gabriellucasknp](https://github.com/gabriellucasknp) |
-| <img src="https://github.com" width="60px;"/> | **Laura** | Business & QA | [laura00000849717](https://github.com/laura00000849717) |
+| <img src="https://avatars.githubusercontent.com/u/142847924?v=4" width="60px;"/> | **Amanda Aziz** | UI/UX Design & Strategy | [Amanda-Aziz](https://github.com/Amanda-Aziz) |
+| <img src="https://avatars.githubusercontent.com/u/207468370?v=4" width="60px;"/> | **Mozart Demarias** | Fullstack Development | [mozartDemarias](https://github.com/mozartDemarias) |
+| <img src="https://avatars.githubusercontent.com/u/130801505?v=4" width="60px;"/> | **Francis Lauriano** | Backend & Health Data | [FrancisLauriano](https://github.com/FrancisLauriano) |
+| <img src="https://avatars.githubusercontent.com/u/208898217?v=4" width="60px;"/> | **Gabriel Lucas** | Frontend Specialist | [gabriellucasknp](https://github.com/gabriellucasknp) |
+| <img src="https://avatars.githubusercontent.com/u/227165810?v=4" width="60px;"/> | **Laura** | Business & QA | [laura00000849717](https://github.com/laura00000849717) |
 
 ---
 > **Squad Ilítia:** Integrando tecnologia e humanização para transformar a saúde materna.
