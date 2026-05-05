@@ -6,5 +6,3 @@
 ---
 [Figma Maker do Protótipo](https://snake-focus-69483258.figma.site/)
 ---
-[slide gamma](https://gamma.app/docs/Ilitia--465b2do8hn47kbs)
----
