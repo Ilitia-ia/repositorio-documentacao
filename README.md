@@ -134,17 +134,4 @@ Os resultados da validação do MVP demonstram um potencial de adoção massivo:
 
 ---
 > **Squad Ilítia:** Integrando tecnologia e humanização para transformar a saúde materna.
-
-
 ---
-
-### 📖 Referências
-
-*   NIELSEN, Jakob. Why You Only Need to Test with 5 Users. Nielsen Norman Group, 2000.
-*   RUBIN, Jeffrey; CHISNELL, Dana. Handbook of Usability Testing. 2. ed. Wiley, 2008.
-*   ISO 9241-210: Ergonomics of Human-System Interaction – Human-Centered Design for Interactive Systems. ISO, 2019.
-*   BRASIL. Ministério da Saúde. Painel de Monitoramento da Mortalidade Materna. Brasília, 2023.
-*   ORGANIZAÇÃO MUNDIAL DA SAÚDE. Maternal Mortality: Key Facts. OMS, 2023.
-*   GEEKSFORGEEKS. Difference Between SQL and NoSQL Databases. 2024.
-*   MONGODB INC. What is MongoDB? 2024.
-*   AMAZON WEB SERVICES. The Difference Between Frontend and Backend in Application Development. 2024.
