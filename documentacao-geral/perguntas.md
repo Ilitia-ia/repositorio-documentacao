@@ -23,10 +23,3 @@ Questões sobre a robustez da solução:
 ## 4. Experiência do Usuário (UX) e Acessibilidade
 * **Inclusão Digital:** "Como a interface foi otimizada para gestantes com dispositivos de baixo desempenho ou baixa literacia digital?"
 * **Desempenho:** "Qual é o tempo médio de resposta (latência) entre a detecção de um sintoma crítico e o alerta chegar ao profissional de saúde?"
-
-## 5. Modelo Operacional e Business Intelligence (BI)
-* **Estrutura White Label:** "Tecnicamente, como funciona o provisionamento para novos clientes White Label? É uma estrutura multi-tenant ou instâncias isoladas?"
-* **Analytics:** "Quais metricas de redução de sinistralidade o sistema consegue extrair para provar o valor econômico às operadoras de saúde?"
-
----
-**Status:** Documento de apoio para sessões de Pitch e Due Diligence.
