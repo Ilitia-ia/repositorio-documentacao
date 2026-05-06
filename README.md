@@ -131,6 +131,7 @@ Os resultados da validação do MVP demonstram um potencial de adoção massivo:
 | <img src="https://avatars.githubusercontent.com/u/207468370?v=4" width="60px;"/> | **Mozart Demarias** | Fullstack Development | [mozartDemarias](https://github.com/mozartDemarias) |
 | <img src="https://avatars.githubusercontent.com/u/208898217?v=4" width="60px;"/> | **Gabriel Lucas** | Frontend Specialist | [gabriellucasknp](https://github.com/gabriellucasknp) |
 | <img src="https://avatars.githubusercontent.com/u/227165810?v=4" width="60px;"/> | **Laura** | Business & QA | [laura00000849717](https://github.com/laura00000849717) |
+| <img src="https://avatars.githubusercontent.com/u/130801505?v=4" width="60px;"/> | **Francis** | Backend dev | [FrancisLauriano](https://github.com/FrancisLauriano) |
 
 ---
 > **Squad Ilítia:** Integrando tecnologia e humanização para transformar a saúde materna.
