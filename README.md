@@ -107,6 +107,7 @@ O processo de design foi guiado pelos princípios de **Design Centrado no Usuár
 #### **Aprofundamento de UX**
 *   🗺️ **[Jornadas do Usuário Detalhadas](https://github.com/Ilitia-ia/repositorio-documentacao/blob/main/documentacao-geral/UX/ux.md)**
 *   📈 **[Matriz de Complexidade e Priorização]([./documentacao-geral/UX/matriz-complexidade.md](https://github.com/Ilitia-ia/repositorio-documentacao/blob/main/documentacao-geral/matriz-complexidade.md))**
+*   🪧 **[Personas e Público-Alvo](https://github.com/Ilitia-ia/repositorio-documentacao/blob/main/documentacao-geral/UX/personas-publicoAlvo.md)**
 
 ---
 
