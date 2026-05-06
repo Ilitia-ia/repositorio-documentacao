@@ -16,9 +16,7 @@ Sobre a inteligência por trás da triagem ativa:
 
 ## 3. Arquitetura e Engenharia (Stack FastAPI/React)
 Questões sobre a robustez da solução:
-* **Escalabilidade:** "Como a arquitetura em FastAPI lida com alta concorrência em cenários de implementação B2G (ex: uma capital inteira utilizando o sistema)?"
 * **Sincronização Offline:** "Qual a estratégia técnica para o armazenamento local e a resolução de conflitos de dados quando o dispositivo recupera a conectividade?"
-* **Interoperabilidade:** "A plataforma suporta padrões de intercâmbio de dados em saúde, como o HL7 FHIR, para integração com prontuários eletrônicos (PEP) existentes?"
 
 ## 4. Experiência do Usuário (UX) e Acessibilidade
 * **Inclusão Digital:** "Como a interface foi otimizada para gestantes com dispositivos de baixo desempenho ou baixa literacia digital?"
